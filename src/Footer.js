@@ -16,7 +16,7 @@ function Footer() {
         <LinkednIcon />
         <TwitterIcon /> */}
       </div>
-      <p> &copy; 2023 Crated by Desroy Maxwell </p>
+      <p> &copy; 2023 Created by Des-Tech Productions </p>
     </div>
   )
 }
